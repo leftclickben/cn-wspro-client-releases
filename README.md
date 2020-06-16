@@ -25,7 +25,7 @@
 <img width="655" alt="shot4" src="https://user-images.githubusercontent.com/29868075/84780521-4ce9c280-b003-11ea-8074-b72dc8bb4dbb.png">
 2. Pause Task will pause the task and push it to your backlog.
 <img width="653" alt="shot-6" src="https://user-images.githubusercontent.com/29868075/84780593-625eec80-b003-11ea-8787-a5a768c66343.png">
-3. You can click on the Paused Tasks button to fetch tasks paused by you and resume working on any of them.
-<img width="906" alt="shot-7" src="https://user-images.githubusercontent.com/29868075/84780660-7571bc80-b003-11ea-9a20-437c26df6940.png">
-<img width="862" alt="shot-8" src="https://user-images.githubusercontent.com/29868075/84780720-88848c80-b003-11ea-873a-e58ec530fe18.png">
+3. You can click on the Paused Tasks button to fetch tasks paused by you and resume working on any of them. 
+<img width="874" alt="shot-10" src="https://user-images.githubusercontent.com/29868075/84781508-8cfd7500-b004-11ea-87ad-45769853cdf7.png">
+<img width="874" alt="shot-11" src="https://user-images.githubusercontent.com/29868075/84781581-a1da0880-b004-11ea-8c4c-dc52b31934e7.png">
 4. Finish Task when you are done with the task.
