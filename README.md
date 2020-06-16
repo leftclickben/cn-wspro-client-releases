@@ -10,10 +10,10 @@
 <img width="645" alt="shot1" src="https://user-images.githubusercontent.com/29868075/84779370-f29c3200-b001-11ea-9e96-b701c7dd53a9.png">
 
 3. Go to url `chrome://extensions` in Chrome.
-<img width="672" alt="shot2" src="https://user-images.githubusercontent.com/29868075/84779472-10699700-b002-11ea-87e1-56ba4e8bd900.png">
+<img width="672" alt="image8" src="https://user-images.githubusercontent.com/29868075/84780140-d8af1f00-b002-11ea-8fc4-dd4c2d300cde.png">
 
 4. Click `Load unpacked` and select the unzipped folder from step 2. 
-<img width="672" alt="image8" src="https://user-images.githubusercontent.com/29868075/84780140-d8af1f00-b002-11ea-8fc4-dd4c2d300cde.png">
+<img width="672" alt="shot2" src="https://user-images.githubusercontent.com/29868075/84779472-10699700-b002-11ea-87e1-56ba4e8bd900.png">
 
 5. Run the extension. Use your AD credentials to login. 
 <img width="739" alt="shot3" src="https://user-images.githubusercontent.com/29868075/84779562-2d05cf00-b002-11ea-8841-c2f101244ade.png">
