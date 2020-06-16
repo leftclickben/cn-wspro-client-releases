@@ -29,3 +29,4 @@
 <img width="874" alt="shot-10" src="https://user-images.githubusercontent.com/29868075/84781508-8cfd7500-b004-11ea-87ad-45769853cdf7.png">
 <img width="874" alt="shot-11" src="https://user-images.githubusercontent.com/29868075/84781581-a1da0880-b004-11ea-8c4c-dc52b31934e7.png">
 4. Finish Task when you are done with the task.
+<img width="874" alt="shot-12" src="https://user-images.githubusercontent.com/29868075/84781803-e665a400-b004-11ea-9410-b706c4e33e9f.png">
