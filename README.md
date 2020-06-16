@@ -5,7 +5,7 @@
 ### Installing Chrome Extension
 
 1. Download the latest version zip from [here](https://github.com/trilogy-group/cn-wspro-client-releases/releases).
-2. Unzip “chrome-extension x.x.x.zip”. 
+2. Unzip “chrome-extension-x.x.x.zip”. 
 <img width="645" alt="shot1" src="https://user-images.githubusercontent.com/29868075/84779370-f29c3200-b001-11ea-9e96-b701c7dd53a9.png">
 3. Goto url chrome://extensions in Chrome. 
 <img width="672" alt="shot2" src="https://user-images.githubusercontent.com/29868075/84779472-10699700-b002-11ea-87e1-56ba4e8bd900.png">
