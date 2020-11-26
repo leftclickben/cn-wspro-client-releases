@@ -28,12 +28,4 @@
 1. Start Fetching a new task.
 <img width="655" alt="shot4" src="https://user-images.githubusercontent.com/29868075/84780521-4ce9c280-b003-11ea-8074-b72dc8bb4dbb.png">
 
-2. `Pause Task` will pause the task and push it to your backlog.
-<img width="653" alt="shot-6" src="https://user-images.githubusercontent.com/29868075/84780593-625eec80-b003-11ea-8787-a5a768c66343.png">
-
-3. You can click on the `Paused Tasks` button to fetch tasks paused by you and resume working on any of them. 
-<img width="874" alt="shot-10" src="https://user-images.githubusercontent.com/29868075/84790126-a3a8c980-b00e-11ea-9ec0-49a16251d1eb.png">
-<img width="874" alt="shot-11" src="https://user-images.githubusercontent.com/29868075/84790179-b15e4f00-b00e-11ea-8c23-78660a950718.png">
-
-4. `Finish` Task when you are done with the task.
-<img width="874" alt="shot-12" src="https://user-images.githubusercontent.com/29868075/84781803-e665a400-b004-11ea-9410-b706c4e33e9f.png">
+2. You will be presented with one or more buttons representing the valid ticket states. Clicking on one of them will finish the task in ALP and update the Jira ticket with the correct status. After which, you may fetch a new task.
