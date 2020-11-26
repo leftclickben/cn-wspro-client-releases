@@ -18,14 +18,10 @@
 5. Run the extension. Use your AD credentials to login. 
 <img width="739" alt="shot3" src="https://user-images.githubusercontent.com/29868075/84779562-2d05cf00-b002-11ea-8841-c2f101244ade.png">
 
-### Update Chrome Extension
 
-1. Remove extension, download new build and load again. 
-<img width="672" alt="image8" src="https://user-images.githubusercontent.com/29868075/84780140-d8af1f00-b002-11ea-8fc4-dd4c2d300cde.png">
+### Using Chrome Extension - Basics
 
-### Using Chrome Extension
-
-1. Start Fetching a new task.
+1. Start by fetching a new task.
 <img width="655" alt="shot4" src="https://user-images.githubusercontent.com/29868075/84780521-4ce9c280-b003-11ea-8074-b72dc8bb4dbb.png">
 
 2. You will be presented with one or more buttons representing the valid ticket states. Clicking on one of them will finish the task in ALP and update the Jira ticket with the correct status. After which, you may fetch a new task.
