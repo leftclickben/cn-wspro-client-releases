@@ -19,7 +19,7 @@
 <img width="739" alt="shot3" src="https://user-images.githubusercontent.com/29868075/84779562-2d05cf00-b002-11ea-8841-c2f101244ade.png">
 
 
-### Using Chrome Extension - Basics
+### Using Chrome Extension
 
 1. Start by fetching a new task.
 <img width="655" alt="shot4" src="https://user-images.githubusercontent.com/29868075/84780521-4ce9c280-b003-11ea-8074-b72dc8bb4dbb.png">
@@ -30,3 +30,6 @@
 
 
 3. You will be presented with one or two buttons representing the valid states that the ticket assigned to you can be transitioned to. When you have finished working on the task (a task is a Jira ticket in a particular state) assigned to you - click on one of them, which will finish the task in ALP and update the Jira ticket with the correct status. After which, you may fetch a new task.
+
+4. If any error pops up while fetching a new task or pausing a task or resuming a task or finishing a task, click on the refresh button in the extension to see if it resolves the error; before reaching out to the ALP team.
+<img width="600" alt="refresh" src="https://user-images.githubusercontent.com/29868058/100344368-b59f8700-3006-11eb-9438-c90d0b337442.png">
