@@ -30,7 +30,7 @@
 
 
 3. You will be presented with one or two buttons representing the valid states that the ticket assigned to you can be transitioned to. When you have finished working on the task (a task is a Jira ticket in a particular state) assigned to you - click on one of them, which will finish the task in ALP and update the Jira ticket with the correct status. After which, you may fetch a new task.
-<img width="600" alt="Screenshot 2020-11-26 at 4 48 09 PM" src="https://user-images.githubusercontent.com/29868058/100344692-39f20a00-3007-11eb-90ea-cd5964e4f0a1.png">
+<img width="600" alt="Screenshot 2020-11-26 at 4 50 21 PM" src="https://user-images.githubusercontent.com/29868058/100344882-84738680-3007-11eb-9930-6586b9186d8b.png">
 
 4. If any error pops up while fetching a new task or pausing a task or resuming a task or finishing a task, click on the refresh button in the extension to see if it resolves the error; before reaching out to the ALP team.
 <img width="600" alt="refresh" src="https://user-images.githubusercontent.com/29868058/100344368-b59f8700-3006-11eb-9438-c90d0b337442.png">
