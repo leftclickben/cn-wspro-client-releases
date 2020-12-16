@@ -5,6 +5,7 @@
 ### Installing Chrome Extension
 
 1. Download the latest version from [here](https://drive.google.com/file/d/1lnlxdlULbYV8e70-GxPC29hUG6jofO1h/view?usp=sharing)
+
 PCA team download this version - [here](https://github.com/trilogy-group/cn-wspro-client-releases/releases/download/0.1.3/chrome-extension-0.1.3.zip).
 
 2. Unzip `alp-chrome-extension-0.1.6.zip`. 
