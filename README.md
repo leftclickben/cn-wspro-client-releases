@@ -4,7 +4,7 @@
 
 ### Installing Chrome Extension
 
-1. Download the latest version from [here](https://drive.google.com/file/d/1lnlxdlULbYV8e70-GxPC29hUG6jofO1h/view?usp=sharing)
+1. Download the latest version from [here](https://alp-wspro.s3.amazonaws.com/release/chrome-extension-2020.12.11.26.zip)
 
 PCA team download this version - [here](https://github.com/trilogy-group/cn-wspro-client-releases/releases/download/0.1.3/chrome-extension-0.1.3.zip).
 
