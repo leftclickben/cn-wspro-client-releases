@@ -36,3 +36,5 @@ PCA team download this version - [here](https://github.com/trilogy-group/cn-wspr
 
 4. If any error pops up while fetching a new task or pausing a task or resuming a task or finishing a task, click on the refresh button in the extension to see if it resolves the error; before reaching out to the ALP team.
 <img width="600" alt="refresh" src="https://user-images.githubusercontent.com/29868058/100344368-b59f8700-3006-11eb-9438-c90d0b337442.png">
+
+5. Please **do NOT** change the assignee on ANY ticket for an issue type which is on-boarded on ALP.
