@@ -41,3 +41,5 @@ PCA team download this version - [here](https://github.com/trilogy-group/cn-wspr
 <img width="600" alt="refresh" src="https://user-images.githubusercontent.com/29868058/100344368-b59f8700-3006-11eb-9438-c90d0b337442.png">
 
 5. **Do NOT** change the assignee on ANY ticket in Jira, for an issue type which is on-boarded on ALP.
+
+6. Please **do NOT** move away from the extension until an operation you performed (fetch/pause/resume/finish) is completed. If you do so, please click on the refresh button on the extension when you come back to it.
