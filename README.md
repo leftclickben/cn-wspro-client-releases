@@ -17,7 +17,10 @@ PCA team download this version - [here](https://github.com/trilogy-group/cn-wspr
 4. Click `Load unpacked` and select the unzipped folder from step 2. 
 <img width="672" alt="shot2" src="https://user-images.githubusercontent.com/29868075/84779472-10699700-b002-11ea-87e1-56ba4e8bd900.png">
 
-5. Run the extension. Use your AD credentials to login. 
+5. Go to `Extensions` in your Chrome browser and pin the WSPro extension (the one with `W` icon) for future use.
+<img width="672" alt="shot111" src="https://user-images.githubusercontent.com/29868058/108797264-d00ae180-75b0-11eb-9633-35d9fad18f9f.png">
+
+6. Run the extension. Use your AD credentials to login. 
 <img width="739" alt="shot3" src="https://user-images.githubusercontent.com/29868075/84779562-2d05cf00-b002-11ea-8841-c2f101244ade.png">
 
 
