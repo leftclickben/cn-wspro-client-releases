@@ -4,9 +4,9 @@
 
 ### Installing Chrome Extension
 
-1. Download the latest version from [here](https://alp-wspro.s3.amazonaws.com/release/chrome-extension-2020.12.11.26.zip)
+1. Download the latest version from [here](https://alp-wspro.s3.amazonaws.com/release/chrome-extension-2021.06.03.1.zip)
 
-2. Unzip `chrome-extension-2020.12.11.26.zip`. 
+2. Unzip `chrome-extension-2021.06.03.1.zip`. 
 <img width="645" alt="shot1" src="https://user-images.githubusercontent.com/29868075/84779370-f29c3200-b001-11ea-9e96-b701c7dd53a9.png">
 
 3. Go to url `chrome://extensions` in Chrome.
