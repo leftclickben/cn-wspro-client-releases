@@ -9,16 +9,16 @@
 2. Unzip `chrome-extension-2021.06.03.1.zip`. 
 <img width="645" alt="shot1" src="https://user-images.githubusercontent.com/29868075/84779370-f29c3200-b001-11ea-9e96-b701c7dd53a9.png">
 
-3. Go to url `chrome://extensions` in Chrome.
+3. Go to url `chrome://extensions` in Chrome.  Ensure "Developer mode" is enabled.
 <img width="672" alt="image8" src="https://user-images.githubusercontent.com/29868075/84780140-d8af1f00-b002-11ea-8fc4-dd4c2d300cde.png">
 
-4. Click `Load unpacked` and select the unzipped folder from step 2. 
+4. Click `Load unpacked` and select the `build` folder in the unzipped folder from step 2. 
 <img width="672" alt="shot2" src="https://user-images.githubusercontent.com/29868075/84779472-10699700-b002-11ea-87e1-56ba4e8bd900.png">
 
 5. Go to `Extensions` in your Chrome browser and pin the WSPro extension (the one with `W` icon) for future use.
 <img width="672" alt="shot111" src="https://user-images.githubusercontent.com/29868058/108797264-d00ae180-75b0-11eb-9633-35d9fad18f9f.png">
 
-6. Run the extension. Use your AD credentials to login. 
+6. Run the extension. Use your AD credentials to login. Use the username without a domain (e.g. do not include `devfactory\`).
 <img width="739" alt="shot3" src="https://user-images.githubusercontent.com/29868075/84779562-2d05cf00-b002-11ea-8841-c2f101244ade.png">
 
 
